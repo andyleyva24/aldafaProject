@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: #f3f3f3;
+    margin-bottom: 15px;
+}
+.bgpiano{
+    background: rgb(1, 11, 2);
+}
+.nav-link{
+    color: #FFFF!important;
+}
+.btn-table{
+    margin: 10px;
+}
+.btn-size{
+    width: 100%;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
